@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="image">
+        <file alias="cool1">image/cool1.gif</file>
+        <file alias="cool2">image/cool2.gif</file>
+    </qresource>
+</RCC>
